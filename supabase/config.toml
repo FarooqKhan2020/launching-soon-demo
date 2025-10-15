@@ -1,0 +1,10 @@
+project_id = "xacnzfooqqfkelcndipn"
+
+[functions.signup]
+verify_jwt = false
+
+[functions.stats]
+verify_jwt = false
+
+[functions.admin-signups]
+verify_jwt = false
